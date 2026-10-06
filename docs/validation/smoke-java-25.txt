@@ -1,5 +1,0 @@
-SLF4J: No SLF4J providers were found.
-SLF4J: Defaulting to no-operation (NOP) logger implementation
-SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
-PASS: separate JDBC library loading/native query, relocated formatter/YAML, core linkage without PacketEvents
-Java 25.0.4.1+8-LTS

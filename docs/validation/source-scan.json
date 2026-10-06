@@ -1,9 +1,0 @@
-{
-  "productionFiles": 108,
-  "findings": {
-    "unfinished": [],
-    "hardcodedPermissions": [],
-    "nms": []
-  },
-  "scope": "Production Java; generated/build/dependency sources excluded"
-}
